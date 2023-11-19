@@ -3,8 +3,7 @@
     <title>Href Attribute Example</title>
   </head>
   <body>
-    <h3>Hola</h3>
-    <h1>Somos los mejores Repe 2</h1>
+    <h3>Somos los mejores Repe 2</h3>
 	<br/><hr/>
     <p>
       <a href="https://www.freecodecamp.org/contribute/">The freeCodeCamp Contribution Page</a> shows you how and where you can contribute to freeCodeCamp's community and growth.
